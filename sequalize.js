@@ -34,20 +34,3 @@ module.exports = {
     Habilidades,
     Radiobases
 }
-
-/*
-// Configuración Base de datos
-const config = {
-    authentication: {
-        options: {
-            userName: "azureusertelcel", // update me
-            password: "telcel#2020" // update me
-        },
-        type: "default"
-    },
-    server: "azure-ejercicios.database.windows.net", // update me
-    options: {
-        database: "ejercicios", //update me
-        encrypt: true
-    }
-};*/
